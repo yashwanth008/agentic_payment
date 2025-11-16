@@ -1,0 +1,7 @@
+{
+  "name": "Agentic Checkout",
+  "description": "An advanced e-commerce simulation where AI agents handle cost optimization, Stripe payments, and minting of on-chain NFT receipts via a mock Coinbase CDP Wallet.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
